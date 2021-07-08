@@ -1,4 +1,4 @@
-# Digiwiz: An Open-source Learning Platform
+# Learn-Software: An Open-source Learning Platform
 > The system’s goal is to provide free courses and class resources to students who are willing to learn.
 ![DigiWiz Homepage](https://raw.githubusercontent.com/Abulhusain/E-learing/master/static/images/digiwiz-home-screenshot.png)
 
